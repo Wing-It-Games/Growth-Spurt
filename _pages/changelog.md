@@ -1,13 +1,13 @@
 ---
 layout: page
 title: What's New
-include_in_header: true
+include_in_header: false
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+No change log added yet. Come back later!
 
-<br>
+<!-- <br>
 
 ### `Latest`
 # **Version 2.0**
@@ -62,4 +62,4 @@ That wow robin one and gosh audibly darn that variously less across softly awake
 - Improved user sign up experience.
 - Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
 
-<br>
+<br> -->
